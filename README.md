@@ -24,15 +24,15 @@
 
 $ npm install -g gulp http-server
 
-**Go inside rootfolder**
+**Go inside project rootfolder**
 
 $ http-server
 
-** new tab in terminal / cmd and type: **
+**new tab in terminal / cmd and type**
 
 $ gulp css
 
-** new tab in terminal / cmd and type: **
+**new tab in terminal / cmd and type:**
 
 $ gulp js
 
