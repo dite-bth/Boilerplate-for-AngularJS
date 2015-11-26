@@ -13,6 +13,11 @@
 
 [Font awesome] (https://fortawesome.github.io/Font-Awesome/)
 
+##Required
+
+[NodeJs] (https://nodejs.org/en/)
+
+
 ##Installation
 
 **terminal / cmd**
