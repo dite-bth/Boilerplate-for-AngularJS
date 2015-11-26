@@ -1,7 +1,7 @@
 app.controller('homeCtrl', ["$scope", function($scope){
     
     
-    $scope.title = "Din title"
+    $scope.title = "Boilerplate for angularjs"
     
     
 }]);
