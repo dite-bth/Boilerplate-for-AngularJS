@@ -32,11 +32,12 @@ $ http-server
 
 $ gulp css
 
-**new tab in terminal / cmd and type:**
+**new tab in terminal / cmd and type**
 
 $ gulp js
 
-**Open localhost:8080 in your favorite browser**
+
+Open localhost:8080 in your favorite browser
 
 ##Woaalla
 
