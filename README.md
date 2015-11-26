@@ -36,6 +36,7 @@ $ gulp css
 
 $ gulp js
 
+**Open localhost:8080 in your favorite browser**
 
 ##Woaalla
 
